@@ -10,7 +10,7 @@ En este rol, una empresa prestadora de servicios de telecomunicaciones me encarg
 
 Se realizó un **análisis exploratorio** de las bases de datos nacionales de acceso a internet a lo largo del país. Este documento está documentado con claridad, incluyendo las conclusiones correspondientes en cada gráfico empleado.
 
-![Análisis Exploratorio](C:\Users\Caeolina\Downloads\pixlr-image-generator-e90c9ffe-3ff8-424d-bb95-e2ff86b9c70e.png)
+![Análisis Exploratorio](pixlr-image-generator-e90c9ffe-3ff8-424d-bb95-e2ff86b9c70e.png)
 
 ---
 
