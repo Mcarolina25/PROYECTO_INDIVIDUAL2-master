@@ -18,7 +18,7 @@ Se realizó un **análisis exploratorio** de las bases de datos nacionales de ac
 
 Por último, se creó un **dashboard interactivo** que facilita la interpretación de la información y su análisis.
 
-![Dashboard](C:\Users\Caeolina\Downloads\pixlr-image-generator-b01653eb-1135-4d04-9945-1df61e4372db.png)
+![Dashboard](preview.webp)
 
 ---
 
