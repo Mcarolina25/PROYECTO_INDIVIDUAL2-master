@@ -1,5 +1,5 @@
 # Proyecto Individual 2 - Accesos a Internet
-!https://github.com/Mcarolina25/PROYECTO_INDIVIDUAL2-master/blob/main/pixlr-image-generator-b01653eb-1135-4d04-9945-1df61e4372db.png?raw=true
+![ACCESOS A INTERNET](pixlr-image-generator-b01653eb-1135-4d04-9945-1df61e4372db.png)
 ## Descripción
 
 En este rol, una empresa prestadora de servicios de telecomunicaciones me encarga la realización de un análisis completo que permita reconocer el comportamiento de este sector a nivel nacional. El objetivo es brindar acceso a internet y así orientar a la empresa en cómo ofrecer una buena calidad de sus servicios, identificar oportunidades de crecimiento y plantear soluciones personalizadas a sus posibles clientes.
