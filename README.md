@@ -18,7 +18,6 @@ Se realizó un **análisis exploratorio** de las bases de datos nacionales de ac
 
 Por último, se creó un **dashboard interactivo** que facilita la interpretación de la información y su análisis.
 
-![Dashboard](preview.webp)
 
 ---
 
@@ -28,15 +27,6 @@ Por último, se creó un **dashboard interactivo** que facilita la interpretaci�
 - **Pandas**: Para la manipulación de datos.
 - **GeoPandas**: Para el análisis geoespacial.
 - **Matplotlib y Seaborn**: Para la visualización de datos.
-- **Plotly/Dash**: Para la creación del dashboard interactivo.
+- **Power BI**: Para la creación del dashboard interactivo.
 
 ---
-
-## Instrucciones de Uso
-
-1. Clona este repositorio en tu máquina local.
-2. Asegúrate de tener instaladas las bibliotecas necesarias:
-   ```bash
-   pip install pandas geopandas matplotlib seaborn plotly
-Ejecuta el script principal para realizar el análisis y generar el dashboard.
-Explora los resultados en los gráficos y el dashboard interactivo.
